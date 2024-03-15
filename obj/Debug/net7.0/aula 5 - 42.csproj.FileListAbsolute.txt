@@ -1,0 +1,14 @@
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\bin\Debug\net7.0\aula 5 - 42.exe
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\bin\Debug\net7.0\aula 5 - 42.deps.json
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\bin\Debug\net7.0\aula 5 - 42.runtimeconfig.json
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\bin\Debug\net7.0\aula 5 - 42.dll
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\bin\Debug\net7.0\aula 5 - 42.pdb
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\obj\Debug\net7.0\aula 5 - 42.GeneratedMSBuildEditorConfig.editorconfig
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\obj\Debug\net7.0\aula 5 - 42.AssemblyInfoInputs.cache
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\obj\Debug\net7.0\aula 5 - 42.AssemblyInfo.cs
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\obj\Debug\net7.0\aula 5 - 42.csproj.CoreCompileInputs.cache
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\obj\Debug\net7.0\aula 5 - 42.dll
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\obj\Debug\net7.0\refint\aula 5 - 42.dll
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\obj\Debug\net7.0\aula 5 - 42.pdb
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\obj\Debug\net7.0\aula 5 - 42.genruntimeconfig.cache
+D:\udemynelioalves_c#\sessão 4\aula 5 - 42\obj\Debug\net7.0\ref\aula 5 - 42.dll
